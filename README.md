@@ -1,7 +1,3 @@
-# yue-qi
-
-> follow me
-
 ## Build Setup
 
 ``` bash
